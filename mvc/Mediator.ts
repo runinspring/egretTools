@@ -6,7 +6,7 @@
 		public mediatorName:string;
         public container:egret.DisplayObjectContainer;
         public facade:Object;
-        constructor(_viewCompmnet:egret.DisplayObjectContainer,_name:string){
+        constructor(_name:string,_viewCompmnet:egret.DisplayObjectContainer){
             this.facade = new Object();
             this.mediatorName = _name;
             this.container = _viewCompmnet;
