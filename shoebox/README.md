@@ -1,10 +1,10 @@
-shoebox下载地址
+﻿shoebox下载地址
 http://renderhjs.net/shoebox/
 
 1. 下载后双击SpriteSheet.sbx，会自动配置shoebox，你不需要做任何设置。
-2. 把要打包的图片，拖到sprite sheet里，点击save生成材质图片和txt格式的json说明文件
-3. 注意生成出来的打包材质图片要是改了名字，对应的txt文件里的"file"也要改名字
-4. 当手动修改图片名和txt里对应的file名称，如果浏览器报错
+2. 把要打包的图片，拖到sprite sheet里，点击save生成材质图片和json说明文件
+3. 注意生成出来的打包材质图片要是改了名字，对应的json文件里的"file"也要改名字
+4. 当手动修改图片名和json里对应的file名称，如果浏览器报错
 ```
 Resource interpreted as Image but transferred with MIME type text/plain:
 ```
